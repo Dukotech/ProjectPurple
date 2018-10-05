@@ -1,4 +1,4 @@
-# About Purple Project
+# About Project Purple
 
 # How to build
 
