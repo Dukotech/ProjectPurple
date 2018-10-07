@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F036D342-5527-43EB-9873-833F055192E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminUI.Core", "src\AdminUI.Core\AdminUI.Core.csproj", "{B090F276-1D8B-4C15-A36B-7BC32E8F63C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B090F276-1D8B-4C15-A36B-7BC32E8F63C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B090F276-1D8B-4C15-A36B-7BC32E8F63C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B090F276-1D8B-4C15-A36B-7BC32E8F63C3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B090F276-1D8B-4C15-A36B-7BC32E8F63C3}.Debug|x64.Build.0 = Debug|Any CPU
+		{B090F276-1D8B-4C15-A36B-7BC32E8F63C3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B090F276-1D8B-4C15-A36B-7BC32E8F63C3}.Debug|x86.Build.0 = Debug|Any CPU
+		{B090F276-1D8B-4C15-A36B-7BC32E8F63C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B090F276-1D8B-4C15-A36B-7BC32E8F63C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B090F276-1D8B-4C15-A36B-7BC32E8F63C3}.Release|x64.ActiveCfg = Release|Any CPU
+		{B090F276-1D8B-4C15-A36B-7BC32E8F63C3}.Release|x64.Build.0 = Release|Any CPU
+		{B090F276-1D8B-4C15-A36B-7BC32E8F63C3}.Release|x86.ActiveCfg = Release|Any CPU
+		{B090F276-1D8B-4C15-A36B-7BC32E8F63C3}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B090F276-1D8B-4C15-A36B-7BC32E8F63C3} = {F036D342-5527-43EB-9873-833F055192E1}
+	EndGlobalSection
+EndGlobal
